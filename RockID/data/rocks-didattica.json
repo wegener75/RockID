@@ -1,4 +1,0 @@
-{
-  "granito": {"nome":"Granito","tipo":"Magmatica intrusiva","ambiente":"Raffreddamento lento del magma in profondità","minerali":["Quarzo","Feldspati","Miche"],"uso":"Edilizia, monumenti, pavimentazioni","dove_trovarla":"Alpi, Appennini, Scandinavia","note_docente":"Ottima per spiegare cristallizzazione lenta e tessitura granulare."},
-  "basalto": {"nome":"Basalto","tipo":"Magmatica effusiva","ambiente":"Colate laviche superficiali","minerali":["Plagioclasi","Pirosseni"],"uso":"Pavimentazioni, ghiaia, edilizia","dove_trovarla":"Hawaii, Islanda, Etna","note_docente":"Esempio classico di raffreddamento rapido e roccia effusiva."}
-}
