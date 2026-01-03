@@ -1,0 +1,4 @@
+{
+  "granito": {"nome":"Granito","tipo":"Magmatica intrusiva"},
+  "basalto": {"nome":"Basalto","tipo":"Magmatica effusiva"}
+}
